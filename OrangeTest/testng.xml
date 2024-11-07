@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/OrangeTest/src/test/java/page_object_model">
+        <classes>
+            <class name="page_object_model.tests.OrangeTest">
+                <methods>
+                    <include name="SearchLogo"/>
+                    <include name="ChangeLanguage"/>
+                    <include name="ViewBlogs"/>
+                    <include name="registerForTrial"/>
+                    <include name="testVideoPlaying"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

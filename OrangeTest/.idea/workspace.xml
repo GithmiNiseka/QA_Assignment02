@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5564b919-03ea-46d6-b128-5c328501aeee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/page_object_model/pages/BlogPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/page_object_model/pages/OrangeHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/page_object_model/pages/TrialRegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/page_object_model/pages/eBookPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/page_object_model/tests/OrangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/page_object_model/tests/ReadExcelFile.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2oUWwIgYSbn4av7NPqdyjFuLJyz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.D:/OrangeTest/testng.xml.executor": "Run",
+    "TestNG.OrangeTest.ChangeLanguage.executor": "Run",
+    "TestNG.OrangeTest.DownloadEbook.executor": "Run",
+    "TestNG.OrangeTest.SearchLogo.executor": "Run",
+    "TestNG.OrangeTest.ViewBlogs.executor": "Run",
+    "TestNG.OrangeTest.VieweBooks.executor": "Run",
+    "TestNG.OrangeTest.registerForTrial.executor": "Run",
+    "TestNG.OrangeTest.testVideoPlaying.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/OrangeTest",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="page_object_model.tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.OrangeTest.VieweBooks">
+    <configuration name="D:/OrangeTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeTest.ViewBlogs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_object_model.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_object_model.tests" />
+      <option name="MAIN_CLASS_NAME" value="page_object_model.tests.OrangeTest" />
+      <option name="METHOD_NAME" value="ViewBlogs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeTest.VieweBooks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_object_model.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_object_model.tests" />
+      <option name="MAIN_CLASS_NAME" value="page_object_model.tests.OrangeTest" />
+      <option name="METHOD_NAME" value="VieweBooks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeTest.registerForTrial" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_object_model.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_object_model.tests" />
+      <option name="MAIN_CLASS_NAME" value="page_object_model.tests.OrangeTest" />
+      <option name="METHOD_NAME" value="registerForTrial" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeTest.testVideoPlaying" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_object_model.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_object_model.tests" />
+      <option name="MAIN_CLASS_NAME" value="page_object_model.tests.OrangeTest" />
+      <option name="METHOD_NAME" value="testVideoPlaying" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OrangeTest.VieweBooks" />
+        <item itemvalue="TestNG.D:/OrangeTest/testng.xml" />
+        <item itemvalue="TestNG.OrangeTest.testVideoPlaying" />
+        <item itemvalue="TestNG.OrangeTest.registerForTrial" />
+        <item itemvalue="TestNG.OrangeTest.ViewBlogs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5564b919-03ea-46d6-b128-5c328501aeee" name="Changes" comment="" />
+      <created>1730924874541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730924874541</updated>
+    </task>
+    <servers />
+  </component>
+</project>
